@@ -1,2 +1,0 @@
-# Supercollider
-Supercollider Examples
